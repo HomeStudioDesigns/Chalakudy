@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-toilet-01",
-      "name": "Toilet 01",
+      "id": "0-0102",
+      "name": "0102",
       "levels": [
         {
           "tileSize": 256,
@@ -32,7 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Home Deets",
+  "name": "Chalakudy",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
