@@ -32,100 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-living-01",
-      "name": "LIVING 01",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-living-02",
-      "name": "LIVING 02",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-reading",
-      "name": "READING",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-dining",
+      "id": "1-dining",
       "name": "DINING",
       "levels": [
         {
@@ -156,7 +63,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-family-01",
+      "id": "2-family-01",
       "name": "FAMILY 01",
       "levels": [
         {
@@ -187,7 +94,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-kitchen-01",
+      "id": "3-kitchen-01",
       "name": "KITCHEN 01",
       "levels": [
         {
@@ -218,8 +125,101 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-kitchen-02",
+      "id": "4-kitchen-02",
       "name": "KITCHEN 02",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-living-01",
+      "name": "LIVING 01",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-living-02",
+      "name": "LIVING 02",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-prayer",
+      "name": "PRAYER",
       "levels": [
         {
           "tileSize": 256,
@@ -280,8 +280,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "9-bedroom-02",
-      "name": "BEDROOM 02",
+      "id": "9-toilet-01",
+      "name": "TOILET 01",
       "levels": [
         {
           "tileSize": 256,
@@ -311,8 +311,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "10-toilet-01",
-      "name": "TOILET 01",
+      "id": "10-bedroom-02",
+      "name": "BEDROOM 02",
       "levels": [
         {
           "tileSize": 256,
